@@ -1,6 +1,11 @@
-### Olá Mundo! Eu me chamo Samuel
+### Olá Mundo! Eu me chamo Samuel 
 
-- 🎓 Estou cursando o primeiro semestre do curso de Análise e desenvolvimento de sistemas na UNINTER
-- 📚 Atualmente estou estudando Python e SQL
-- 💬 Falo portugês e inglês (intermediário-avançado)
+- 🎓 Estou cursando o primeiro semestre do curso de Análise e desenvolvimento de sistemas
+    * UNINTER
+- 📚 Atualmente estou estudando as linguagens:
+    * 🐍 Python
+    * 🐬 SQL
+- 💬 Línguas que eu falo:
+    * Português (nativo)
+    * Inglês (intermediário-avançado)
 - 📫 Contato: samuelcouto2003@outlook.com
