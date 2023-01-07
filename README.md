@@ -4,7 +4,7 @@
 - 🎓 Cursando Análise e desenvolvimento de sistemas
     * UNINTER
 - 💼 Estagiando:
-    * 🌱 Estagiário de TI na Pedra Agroindustrial S/A
+    * 💻 Estagiário de TI na Pedra Agroindustrial S/A
 - 📚 Atualmente estou estudando as linguagens:
     * 🐍 Python
     * 🐬 SQL
