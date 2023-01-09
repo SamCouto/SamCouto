@@ -7,7 +7,8 @@
     * 💻 Estagiário de TI na Pedra Agroindustrial S/A
 - 📚 Atualmente estou estudando as linguagens:
     * 🐍 Python
-    * 📁 SQL e PL/SQL
+    * 🐬 SQL (MySQL)
+    * 📁 Oracle PL/SQL
 - 💬 Línguas que eu falo:
     * Português (nativo)
     * Inglês (intermediário-avançado)
