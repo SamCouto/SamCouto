@@ -5,7 +5,7 @@
     * UNINTER
 - 💼 Estagiando:
     * 💻 Estagiário de TI na Pedra Agroindustrial S/A
-- 📚 Atualmente estou estudando as linguagens:
+- 📚 Atualmente estou estudando:
     * 🐍 Python
     * 🐬 SQL (MySQL)
     * 📁 Oracle PL/SQL
