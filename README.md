@@ -2,7 +2,7 @@
 
 - 📍🗺️ Moro em Serrana-SP
 - 🎓 Cursando Análise e desenvolvimento de sistemas
-    * UNINTER
+    * UNINTER | 2022-2024
 - 💼 Estagiando:
     * 💻 Estagiário de TI na Pedra Agroindustrial S/A
 - 📚 Atualmente estou estudando:
