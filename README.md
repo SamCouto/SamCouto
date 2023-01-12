@@ -1,4 +1,4 @@
-### Olá Mundo! Eu me chamo Samuel 
+### print(Hello, world!) Ops... Olá, mundo! Eu me chamo Samuel 
 
 - 📍🗺️ Moro em Serrana-SP
 - 🎓 Cursando Análise e desenvolvimento de sistemas
