@@ -13,5 +13,5 @@
     * Português (nativo)
     * Inglês (intermediário-avançado)
 - 📫 Contato:
-   * E-mail: samuelcouto2003@outlook.com
-   * LinkedIn: https://www.linkedin.com/in/samuel-couto-silva-109509247
+    * E-mail: samuelcouto2003@outlook.com
+    * LinkedIn: https://www.linkedin.com/in/samuel-couto-silva-109509247
