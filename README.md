@@ -8,7 +8,6 @@
 - 📚 Atualmente estou estudando:
     * 🐍 Python
     * 🐬 SQL (MySQL)
-    * 📁 Oracle PL/SQL
 - 💬 Línguas que eu falo:
     * Português (nativo)
     * Inglês (intermediário-avançado)
