@@ -1,13 +1,13 @@
-### print(Hello, world!) Ops... Olá, mundo! Eu me chamo Samuel 
+### print(Hello, world!) Oops... Hello, world! My name is Samuel 
 
-- 📍🗺️ Moro em Serrana-SP
-- 🎓 Cursando Análise e desenvolvimento de sistemas
+- 📍🗺️ I live in Serrana-SP (Brazil)
+- 🎓 Analysis and Sistems development
     * UNINTER | 2022-2024
-- 💼 Ocupação:
-    * 💻 Estagiário de TI na Pedra Agroindustrial S/A
-- 📚 Atualmente estou estudando:
+- 💼 I'm currently working as:
+    * 💻 IT trainee at Pedra Agroindustrial S/A
+- 📚 I'm currently studying:
     * 🐍 Python
     * 🐬 SQL (MySQL)
-- 💬 Línguas que eu falo:
-    * Português (nativo)
-    * Inglês (intermediário-avançado)
+- 💬 Languages that I speak:
+    * Portuguese (native)
+    * English (intermediate-advanced)
