@@ -6,10 +6,9 @@
 - 💼 IT trainee
     * Pedra Agroindustrial S/A
 - 📚 I'm currently studying
-    * 🐍 Python
-    * 🐬 SQL (MySQL)
     * 🌐 Git
     * ☕ Java
+    * 📁 SQL
 - 💬 Languages that I speak
     * Portuguese (native)
     * English (intermediate-advanced)
