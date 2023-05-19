@@ -8,7 +8,8 @@
 - 📚 I'm currently studying
     * 🐍 Python
     * 🐬 SQL (MySQL)
-    * 🇬 Git
+    * 🌐 Git
+    * ☕ Java
 - 💬 Languages that I speak
     * Portuguese (native)
     * English (intermediate-advanced)
