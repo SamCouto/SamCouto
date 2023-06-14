@@ -12,3 +12,5 @@
 - 💬 Languages that I speak
     * Portuguese (native)
     * English (intermediate-advanced)
+- ✉️ E-mail:
+    * samuelcouto2003@outlook.com
