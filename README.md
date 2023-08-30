@@ -3,7 +3,7 @@
 - 📍🗺️ I live in Serrana-SP (Brazil)
 - 🎓 Analysis and Sistems development
     * UNINTER | 2022-2024
-- 💼 IT trainee
+- 💼 IT intern
     * Pedra Agroindustrial S/A
 - 📚 I'm currently studying
     * 🌐 Git
