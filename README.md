@@ -1,4 +1,4 @@
-### print(Hello, world!) Oops... Hello, world! My name is Samuel 
+### printf("Hello, world!\n"); Oops... Hello, world! My name is Samuel 
 
 - 📍🗺️ I live in Serrana-SP (Brazil)
 - 🎓 Analysis and Sistems development
@@ -6,8 +6,7 @@
 - 💼 IT intern
     * Pedra Agroindustrial S/A
 - 📚 I'm currently studying
-    * 🌐 Git
-    * ☕ Java
+    * 🇨 The C Programming Language
     * 📁 SQL
 - 💬 Languages that I speak
     * Portuguese (native)
