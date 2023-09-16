@@ -5,6 +5,7 @@
     * UNINTER | 2022-2024
 - 🧑🏻‍💻 Possuo conhecimentos em:
     * 🌐 Git
+    * 🐧 Linux
     * 🐍 Python
     * 📁 SQL
 - 📚 Atualmente estou estudando:
