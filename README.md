@@ -1,15 +1,16 @@
-### printf("Hello, world!\n"); Oops... Hello, world! My name is Samuel 
+# printf("Olá, meu nome é Samuel\n");
+### *Programador backend*
 
-- 📍🗺️ I live in Serrana-SP (Brazil)
-- 🎓 Analysis and Sistems development
+- 🎓 Cursando Analise e Desenvolviemtno de Sistemas
     * UNINTER | 2022-2024
-- 💼 IT intern
-    * Pedra Agroindustrial S/A
-- 📚 I'm currently studying
-    * 🇨 The C Programming Language
+- 🧑🏻‍💻 Possuo conhecimentos em:
+    * 🌐 Git
+    * 🐍 Python
     * 📁 SQL
-- 💬 Languages that I speak
-    * Portuguese (native)
-    * English (intermediate-advanced)
-- 📫 E-mail:
+- 📚 Atualmente estou estudando:
+    * 🇨 The C Programming Language
+- 💬 Línguas que eu falo:
+    * Portugês (nativo)
+    * Inglês (intermedário/avançado)
+- ✉️ E-mail:
     * samuelcouto2003@outlook.com
