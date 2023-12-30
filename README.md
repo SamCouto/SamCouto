@@ -9,7 +9,7 @@
     * 🐍 Python
     * 📁 SQL
 - 📚 Atualmente estou estudando:
-    * 🇨 The C Programming Language
+    * 💻 Bash
 - 💬 Línguas que eu falo:
     * Portugês (nativo)
     * Inglês (intermedário/avançado)
