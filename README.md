@@ -1,17 +1,16 @@
-# printf("Olá, meu nome é Samuel\n");
-### *Programador backend*
+# echo "Hello World!"
+### *IT and Infrastructure Support*
 
-- 🎓 Cursando Analise e Desenvolviemtno de Sistemas
+- 🎓 Analysis and systems development
     * UNINTER | 2022-2024
-- 🧑🏻‍💻 Possuo conhecimentos em:
+- 🧑🏻‍💻 Knowledge List:
     * 🌐 Git
     * 🐧 Linux
     * 🐍 Python
     * 📁 SQL
-- 📚 Atualmente estou estudando:
-    * 💻 Bash
-- 💬 Línguas que eu falo:
-    * Portugês (nativo)
-    * Inglês (intermedário/avançado)
+- 📚 I'm currently studing to be an DevOps engineer
+- 💬 Languages:
+    * Portuguese (native)
+    * English (advanced)
 - ✉️ E-mail:
     * samuelcouto2003@outlook.com
