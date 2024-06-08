@@ -3,12 +3,15 @@
 
 - 🎓 Analysis and systems development
     * UNINTER | 2022-2024
-- 🧑🏻‍💻 Knowledge List:
-    * 🌐 Git
+- 🧑🏻‍💻 Skills List:
+    * 🔍 Requirements Analysis
+    * 📝 Elaboration of Documentation
+    * 🗣️ Communication
     * 🐧 Linux
+    * 🌐 Network Infrastructure
+- 📚 I'm currently studing:
     * 🐍 Python
-    * 📁 SQL
-- 📚 I'm currently studing to be an DevOps engineer
+    * 🌐 Computer Network
 - 💬 Languages:
     * Portuguese (native)
     * English (advanced)
