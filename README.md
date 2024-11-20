@@ -1,19 +1,17 @@
-# echo "Hello World!"
-### *IT and Infrastructure Support*
+# echo "Hi, I'm Sam!"
+
+### *DevOps and IT Infrastructure*
 
 - 🎓 Analysis and systems development
-    * UNINTER | 2022-2024
+    - UNINTER | 2022-2024
 - 🧑🏻‍💻 Skills List:
-    * 🔍 Requirements Analysis
-    * 📝 Elaboration of Documentation
-    * 🗣️ Communication
-    * 🐧 Linux
-    * 🌐 Network Infrastructure
-- 📚 I'm currently studing:
-    * 🐍 Python
-    * 🌐 Computer Network
+    - 🔍 Systems analysis and monitoring
+    - 🐧 Linux
+    - 🐚 Shell Scripting
+    - 🌐 Computer Networks
 - 💬 Languages:
-    * Portuguese (native)
-    * English (advanced)
-- ✉️ E-mail:
-    * samuelcouto2003@outlook.com
+    - Portuguese (native)
+    - English (advanced)
+    - Spanish (basic)
+- 📨 Contact:
+    - samuelcouto2003@outlook.com
